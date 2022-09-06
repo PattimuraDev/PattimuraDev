@@ -16,6 +16,7 @@
 <a href="https://linkedin.com/in/dwisatriapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dwisatriapatra" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13159608" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="13159608" height="30" width="40" /></a>
 <a href="https://instagram.com/dwisatriapatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dwisatriapatra" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/PattimuraDev" target="blank"><img align="center" src="https://github.com/codewars/branding/blob/master/logo.svg" alt="dwisatriapatra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
