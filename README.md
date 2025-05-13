@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dwisatriapatra2000@gmail.com**
 
-- ⚡ Fun fact **I'm 22 years old and still love watching anime XD**
+- ⚡ Fun fact **I'm 25 years old and still love watching anime XD**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
